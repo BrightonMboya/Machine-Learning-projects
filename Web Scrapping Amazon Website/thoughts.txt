@@ -1,0 +1,38 @@
+Thought Process:
+
+
+1. While reading the Assignment:
+    So after reading the Assignment, I immediately knew that this is a web Scrapping assignment. So I visited the official python library 
+    to familiarise myself with the request() built-in function.
+
+    Also I went online to read the documentation of BeautifulSoup library for web Scrapping. I knew this library by searching the best python
+    library for web Scrapping. So I read the documentation and some online articles on how to do the task.
+
+    After some time I was now confident to start the work.
+
+    Additionally I treated the task as a Data Science task and that is why I used Pandas library to sort the data and view it as a csv format.
+    This way, the final output is easily viewed and you can easily see the book details from the dataframe format.
+
+
+2. Choice of Libraries used:
+    1. BeautifulSoup:
+        I chose BeautifulSoup because it's the easiest library to use when it comes to web Scrapping.
+        Although using BeautifulSoup is slower that's why there are alternatives like Scrapy, but based on the task at hand,
+        BeautifulSoup was the best choice for me to go with.
+
+    2. Pandas:
+        Since I decided to treat the task as a Data Science task, I chose Pandas library to help in data 
+        sorting. Pandas is a very common python library used in Data Science and that is why I chose it.
+
+    3. Requests:
+        Requests is a python library used to handle HTTP requests. After reading the of python library,
+        I decided to use requests.
+
+    Finally, the requirements I used for the projects are found at the requirements.txt file
+
+
+3. The Environment used:
+    I had a virtual Environment in my pc where I had installed all the libraries used, so I didn't
+    install any new Libraries while doing the assignment.
+
+    Also, I used Jupyter Notebooks because I wanted to see the Output on every piece of code that I write.
