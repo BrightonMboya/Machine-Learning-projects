@@ -1,4 +1,7 @@
+*** PS: this readme is from the original source code gitHub repo: https://lnkd.in/gWGT9gUc ***
+
 # GFPGAN (CVPR 2021)
+
 
 [![download](https://img.shields.io/github/downloads/TencentARC/GFPGAN/total.svg)](https://github.com/TencentARC/GFPGAN/releases)
 [![PyPI](https://img.shields.io/pypi/v/gfpgan)](https://pypi.org/project/gfpgan/)
